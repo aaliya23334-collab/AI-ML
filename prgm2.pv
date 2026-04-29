@@ -1,0 +1,22 @@
+student ={"name":"bharath","age":20,"grade":"O"}
+
+car ={"brand":"honda","model":"city"}
+car.update({"model":"amaze","year":"2020"})
+
+fruits ={"apple":100,"banana":60,"orange":80}
+new = fruits.pop("banana")
+
+data ={"a":1,"b":2,"c":3}
+data.popitem()
+data.popitem()
+
+person ={"name":"john","age":30,"city":"london"}
+del person["age"]
+
+lap ={"name":"vivobook","rate":60000,"SSD":"yes"}
+lap.clear()
+
+country ={"india":"delhi","japan":"tokyo","france":"paris"}
+
+for key in country.keys():
+    print(key)

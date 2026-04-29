@@ -1,0 +1,62 @@
+# A = int(input("enter a number: "))
+
+# if A > 0:
+#     print("positive number")
+# elif A < 0:
+#     print("negative number")
+# else:
+#     print("it is zero")
+
+#2
+# age = int(input("enter your age: "))
+# if age >= 18:
+#     print("eligible to vote")
+# else:
+#     print("not eligible to vote")
+
+#3
+# num = int(input("enter a number: "))
+# if num %2 == 0:
+#     print("even number")
+# else:
+#     print("odd number")
+
+#4
+# B = input("enter a letter: ")
+# if B in ["A,E,I,O,U,a,e,i,o,u"]:
+#     print("it is vowel")
+# else:
+#     print("it is consonant")
+
+#5
+# x = int(input("enter first number: "))
+# y = int(input("enter second number: "))
+# if x>y:
+#     print("the number ",x,"is larger")
+# else:
+#     print("the number",y,"is larger")
+
+
+6
+x = int(input("enter first number: "))
+y = int(input("enter second number: "))
+z = int(input("enter third number: "))
+if x>y:
+  print("the number ",x,"is larger")
+elif y>z:
+  print("the number",y,"is larger")
+else:
+  print("the number",z,"is larger")
+
+#7
+
+
+
+
+
+
+
+
+
+
+

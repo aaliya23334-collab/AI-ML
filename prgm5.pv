@@ -1,0 +1,46 @@
+# def calculate_bill(amount):
+#      gst =amount*0.18
+#      total =amount + gst
+#      return total
+# bill = int(input("enter a amount: "))
+# final_amount =calculate_bill(bill)
+# print(final_amount)
+
+
+# def calculate_result(marks):
+#     total = sum(marks)
+#     average = total / len(marks)
+#     if average >= 90:
+#         grade = "A"
+#     elif average >= 80:
+#         grade = "B"
+#     elif average >= 65:
+#         grade = "c"
+#     elif average >=45:
+#         grade = "D"
+#     else:
+#         grade ="F"
+    
+#     return average,grade
+
+# marks = [60,20,50]
+# average,grade =calculate_result(marks)
+# print("average:",average)
+# print("grade:",grade)
+
+# def eligible(age):
+#     if age >=18:
+#         return("eligible to vote")
+#     else:
+#         return("not eligible to vote")
+# age =int(input("enter your age: "))
+# result = eligible(age)
+# print(result)
+
+
+
+    
+    
+
+
+    
